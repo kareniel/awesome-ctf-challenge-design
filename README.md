@@ -23,6 +23,7 @@ A curated list of resources about security CTF and Wargame challenge design.
 
 - [The Secrets of Puzzle Design](https://www.youtube.com/watch?v=hCOHjTX4GYE) (Video) - How Game Designers Explore Ideas and Themes with Puzzles and Problems.
 - [The Puzzle Instinct](https://www.amazon.com/Puzzle-Instinct-Meaning-Puzzles-Human/dp/0253217083) (Book)
+- [Designing the Puzzle](http://www.lucasstyle.com/tutorials/Designing_The_Puzzle.pdf) (PDF) - Bob Bates's short paper on puzzle taxonomy and how to distinguish a good from a bad puzzle.
 
 ## Weird Machines
 
