@@ -7,6 +7,8 @@ A curated list of resources about security CTF and Wargame challenge design.
 - [Learning Obstacles in the Capture The Flag Model](https://www.usenix.org/system/files/conference/3gse14/3gse14-chung.pdf) (PDF) - Insights and lessons learned from organizing CSAW CTF
 - [Organizing Large Scale Hacking Competitions](https://sites.cs.ucsb.edu/~vigna/publications/2010_childers_boe_cavallaro_cavedon_cova_egele_vigna_dimva10.pdf) (PDF) -  Two new competition designs, the challenges overcome, and the lessons learned, with the goal of providing useful guidelines to other educators who want to pursue the organization of similar events
 - [Ten Years of iCTF - The Good, The Bad, and The Ugly](https://www.usenix.org/conference/3gse14/summit-program/presentation/vigna) (Video) - There is also [a paper about this](https://www.researchgate.net/publication/278724640_Ten_Years_of_iCTF_The_Good_The_Bad_and_The_Ugly).
+- [Hit ’em Where it Hurts](https://seclab.bu.edu/people/gianluca/papers/ctf-acsac2011.pdf) (PDF) - A paper presenting the design of a novel kind of live security competition centered on the concept of Cyber Situational Awareness.
+- [Teaching Network Security Through Live Exercises](https://ictf.cs.ucsb.edu/pdfs/2003_WISE_iCTF.pdf) (PDF) - This paper describes a series of live exercises that have been used in a graduate-level Computer Science course on network security.
 
 ## Engineering
 
@@ -14,8 +16,13 @@ A curated list of resources about security CTF and Wargame challenge design.
 - [Security Scenario Generator (SecGen)](https://www.usenix.org/system/files/conference/ase17/ase17_paper_schreuders.pdf) (PDF) - A Framework for Generating Randomly Vulnerable Rich-scenario VMs for Learning Computer Security and Hosting CTF Events
 - [Hackerbot](https://www.usenix.org/system/files/conference/ase18/ase18_hackerbot.pdf) (PDF) - Attacker Chatbots for Randomised and Interactive Security Labs, Using SecGen and oVirt
 
-## Gamification
+## Learning, Curiosity & Gamification 
 
+- [Modeling and Designing for Key Elements of
+Curiosity: Risking Failure, Valuing Questions](http://www.digra.org/wp-content/uploads/digital-library/63_DIGRA2017_FP_To_Modelling_Curosity.pdf) (PDF) - This paper presents a design model of curiosity that articulates the relationship between uncertainty and curiosity and defines the role of failure and question-asking within that relationship.
+- [A New Theoretical Framework for Curiosity for Learning in Social Contexts](http://www.justinecassell.com/publications/A%20New%20Theoretical%20Framework%20for%20Curiosity%20for%20Learning%20in%20Social%20Contexts.pdf) (PDF) -  This framework is a step towards designing learning technologies that can recognize and
+evoke curiosity during learning in social contexts.
+- [Curious Minds Wonder Alike](https://zhenbai.io/wp-content/uploads/2018/08/Sinha_Bai_Cassell_EC-TEL_Curious_Minds_Wonder_Alike.pdf) (PDF) - A paper that identifies fine-grained social scaffolding of curiosity in child-child interaction, and proposes how they can be used to elicit and maintain curiosity in technology-enhanced learning environments.
 - [Gamification for teaching and learning computer security in higher education](https://www.usenix.org/system/files/conference/ase16/ase16-paper-schreuders.pdf) (PDF) - A paper that presents the design and evaluation of a gamified computer security module, with a unique approach to assessed learning activities.
 
 
@@ -27,6 +34,7 @@ A curated list of resources about security CTF and Wargame challenge design.
 - [How to make a good puzzle](https://www.gamasutra.com/blogs/TomHermans/20180829/325469/How_to_make_a_good_puzzle__An_explorable_explanation.php) (Article) - An explorable explanation on how to make a puzzle that's fun, and satisfying to solve.
 - [Empuzzlement](https://www.youtube.com/watch?v=Ul_ZfzfHRek) (Video) - Puzzle game designers talking about puzzles. Featuring: Jonathan Blow, Marc ten Bosch, and Droqen.
 - [Design to Reveal the Nature of the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU) (Video) - A talk from Jonathan Blow & Marc Ten Boch at IndieCade 2011.
+- [Open-Ended Puzzle Design at Zachtronics](https://www.youtube.com/watch?v=U4uH1ynH3Rs) (Video) - Interview with Zach Barth on his studio's puzzle design process, from the initial foundation to the basic mechanics, to the way story is integrated.
 
 ## Weird Machines
 
