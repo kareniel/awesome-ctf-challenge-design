@@ -56,3 +56,15 @@ evoke curiosity during learning in social contexts.
 ## Escape Rooms
 
 - [A Model to Design Learning Escape Games: SEGAM](https://hal.archives-ouvertes.fr/hal-01744860/document) (PDF) - A methodology for designing "Serious Escape Games" for learning.
+
+---
+
+#### See Also
+
+Other Awesome Lists:
+
+- [CTFs](https://github.com/apsdehal/awesome-ctf#readme)
+- [Security](https://github.com/sbilly/awesome-security#readme)
+- [AppSec](https://github.com/paragonie/awesome-appsec#readme)
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
