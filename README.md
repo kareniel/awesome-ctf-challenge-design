@@ -42,3 +42,14 @@ evoke curiosity during learning in social contexts.
 - [Abadidea's Index of Weird Machines in Video Games](https://gist.github.com/0xabad1dea/7740977) (Gist) - 
 - [What Hacker Research Taught Me](https://www.youtube.com/watch?v=Dd9UtHalRDs) (Video) - Sergey Bratus' keynote at the TROOPERS 2010 conference. You can [find the slides here](https://www.cs.dartmouth.edu/~sergey/hc/rss-hacker-research.pdf).
 - [The Science of Insecurity](https://www.youtube.com/watch?v=3kEfedtQVOY) (Video) - Meredith L. Patterson's talk at 28c3. Draws a direct connection between ubiquitous insecurity and computer science concepts of Turing completeness and theory of languages
+
+## Approaches & Specific Designs
+
+- [A Serious Game for Eliciting Social Engineering Security Requirements](A Serious Game for Eliciting Social Engineering
+Security Requirements) (PDF) - A card game which all employees of a company can play to understand threats and document security requirements.
+- [Collection Deck](https://www.thegamecrafter.com/games/collection-deck1) (Website) - A training game designed by the CIA to teach employees about various collection capabilities.
+- [A “Divergent”-themed CTF and Urban Race for Introducing Security and Cryptography](https://www.usenix.org/conference/ase16/workshop-program/presentation/feng) (PDF) - A set of CTF exercises and a physical activity based on an urban race, both of which are tied into a fictional story that students act out. 
+
+## Escape Rooms
+
+- [A Model to Design Learning Escape Games: SEGAM](https://hal.archives-ouvertes.fr/hal-01744860/document) (PDF) - A methodology for designing "Serious Escape Games" for learning.
