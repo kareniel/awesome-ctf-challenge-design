@@ -67,4 +67,4 @@ Other Awesome Lists:
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [AppSec](https://github.com/paragonie/awesome-appsec#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
