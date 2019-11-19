@@ -26,6 +26,7 @@ A curated list of resources about security CTF and Wargame challenge design.
 - [Designing the Puzzle](http://www.lucasstyle.com/tutorials/Designing_The_Puzzle.pdf) (PDF) - Bob Bates's short paper on puzzle taxonomy and how to distinguish a good from a bad puzzle.
 - [How to make a good puzzle](https://www.gamasutra.com/blogs/TomHermans/20180829/325469/How_to_make_a_good_puzzle__An_explorable_explanation.php) (Article) - An explorable explanation on how to make a puzzle that's fun, and satisfying to solve.
 - [Empuzzlement](https://www.youtube.com/watch?v=Ul_ZfzfHRek) (Video) - Puzzle game designers talking about puzzles. Featuring: Jonathan Blow, Marc ten Bosch, and Droqen.
+- [Design to Reveal the Nature of the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU) (Video) - A talk from Jonathan Blow & Marc Ten Boch at IndieCade 2011.
 
 ## Weird Machines
 
