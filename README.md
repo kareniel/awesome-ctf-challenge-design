@@ -2,13 +2,15 @@
 
 A curated list of resources about security CTF and Wargame challenge design.
 
+## General
+
+- [The Many Maxims of Maximally Effective CTFs](http://captf.com/maxims.html)
+
 ## Events
 
 - [Learning Obstacles in the Capture The Flag Model](https://www.usenix.org/system/files/conference/3gse14/3gse14-chung.pdf) (PDF) - Insights and lessons learned from organizing CSAW CTF
 - [Organizing Large Scale Hacking Competitions](https://sites.cs.ucsb.edu/~vigna/publications/2010_childers_boe_cavallaro_cavedon_cova_egele_vigna_dimva10.pdf) (PDF) -  Two new competition designs, the challenges overcome, and the lessons learned, with the goal of providing useful guidelines to other educators who want to pursue the organization of similar events
 - [Ten Years of iCTF - The Good, The Bad, and The Ugly](https://www.usenix.org/conference/3gse14/summit-program/presentation/vigna) (Video) - There is also [a paper about this](https://www.researchgate.net/publication/278724640_Ten_Years_of_iCTF_The_Good_The_Bad_and_The_Ugly).
-- [Hit ’em Where it Hurts](https://seclab.bu.edu/people/gianluca/papers/ctf-acsac2011.pdf) (PDF) - A paper presenting the design of a novel kind of live security competition centered on the concept of Cyber Situational Awareness.
-- [Teaching Network Security Through Live Exercises](https://ictf.cs.ucsb.edu/pdfs/2003_WISE_iCTF.pdf) (PDF) - This paper describes a series of live exercises that have been used in a graduate-level Computer Science course on network security.
 
 ## Engineering
 
@@ -45,10 +47,12 @@ evoke curiosity during learning in social contexts.
 
 ## Approaches & Specific Designs
 
+- [Hit ’em Where it Hurts](https://seclab.bu.edu/people/gianluca/papers/ctf-acsac2011.pdf) (PDF) - A paper presenting the design of a novel kind of live security competition centered on the concept of Cyber Situational Awareness.
 - [A Serious Game for Eliciting Social Engineering Security Requirements](A Serious Game for Eliciting Social Engineering
 Security Requirements) (PDF) - A card game which all employees of a company can play to understand threats and document security requirements.
 - [Collection Deck](https://www.thegamecrafter.com/games/collection-deck1) (Website) - A training game designed by the CIA to teach employees about various collection capabilities.
 - [A “Divergent”-themed CTF and Urban Race for Introducing Security and Cryptography](https://www.usenix.org/conference/ase16/workshop-program/presentation/feng) (PDF) - A set of CTF exercises and a physical activity based on an urban race, both of which are tied into a fictional story that students act out. 
+- [Teaching Network Security Through Live Exercises](https://ictf.cs.ucsb.edu/pdfs/2003_WISE_iCTF.pdf) (PDF) - This paper describes a series of live exercises that have been used in a graduate-level Computer Science course on network security.
 
 ## Escape Rooms
 
