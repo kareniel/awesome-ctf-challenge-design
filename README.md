@@ -48,8 +48,7 @@ evoke curiosity during learning in social contexts.
 ## Approaches & Specific Designs
 
 - [Hit ’em Where it Hurts](https://seclab.bu.edu/people/gianluca/papers/ctf-acsac2011.pdf) (PDF) - A paper presenting the design of a novel kind of live security competition centered on the concept of Cyber Situational Awareness.
-- [A Serious Game for Eliciting Social Engineering Security Requirements](A Serious Game for Eliciting Social Engineering
-Security Requirements) (PDF) - A card game which all employees of a company can play to understand threats and document security requirements.
+- [A Serious Game for Eliciting Social Engineering Security Requirements](https://mediatum.ub.tum.de/doc/1328974/1328974.pdf) (PDF) - A card game which all employees of a company can play to understand threats and document security requirements.
 - [Collection Deck](https://www.thegamecrafter.com/games/collection-deck1) (Website) - A training game designed by the CIA to teach employees about various collection capabilities.
 - [A “Divergent”-themed CTF and Urban Race for Introducing Security and Cryptography](https://www.usenix.org/conference/ase16/workshop-program/presentation/feng) (PDF) - A set of CTF exercises and a physical activity based on an urban race, both of which are tied into a fictional story that students act out. 
 - [Teaching Network Security Through Live Exercises](https://ictf.cs.ucsb.edu/pdfs/2003_WISE_iCTF.pdf) (PDF) - This paper describes a series of live exercises that have been used in a graduate-level Computer Science course on network security.
