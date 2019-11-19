@@ -2,6 +2,11 @@
 
 A curated list of resources about security CTF and Wargame challenge design.
 
+## Events
+
+- [Learning Obstacles in the Capture The Flag Model](https://www.usenix.org/system/files/conference/3gse14/3gse14-chung.pdf) (PDF) - Insights and lessons learned from organizing CSAW CTF
+- [Organizing Large Scale Hacking Competitions](https://sites.cs.ucsb.edu/~vigna/publications/2010_childers_boe_cavallaro_cavedon_cova_egele_vigna_dimva10.pdf) (PDF) -  Two new competition designs, the challenges overcome, and the lessons learned, with the goal of providing useful guidelines to other educators who want to pursue the organization of similar events
+
 ## Puzzle Design
 
 - [The Secrets of Puzzle Design](https://www.youtube.com/watch?v=hCOHjTX4GYE) (Video) - How Game Designers Explore Ideas and Themes with Puzzles and Problems.
