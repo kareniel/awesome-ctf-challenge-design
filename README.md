@@ -7,6 +7,11 @@ A curated list of resources about security CTF and Wargame challenge design.
 - [Learning Obstacles in the Capture The Flag Model](https://www.usenix.org/system/files/conference/3gse14/3gse14-chung.pdf) (PDF) - Insights and lessons learned from organizing CSAW CTF
 - [Organizing Large Scale Hacking Competitions](https://sites.cs.ucsb.edu/~vigna/publications/2010_childers_boe_cavallaro_cavedon_cova_egele_vigna_dimva10.pdf) (PDF) -  Two new competition designs, the challenges overcome, and the lessons learned, with the goal of providing useful guidelines to other educators who want to pursue the organization of similar events
 
+## Engineering
+
+- [AutoCTF - Creating Diverse Pwnables via Automated Bug Injection](https://rode0day.mit.edu/static/autoctf.pdf) (PDF) - Making CTFs cheap and reusable by extending a bug injection system to add exploitable vulnerabilities, enabling rapid generation of new CTF challenges.
+- [Security Scenario Generator (SecGen)](https://www.usenix.org/system/files/conference/ase17/ase17_paper_schreuders.pdf) (PDF) - A Framework for Generating Randomly Vulnerable Rich-scenario VMs for Learning Computer Security and Hosting CTF Events
+
 ## Puzzle Design
 
 - [The Secrets of Puzzle Design](https://www.youtube.com/watch?v=hCOHjTX4GYE) (Video) - How Game Designers Explore Ideas and Themes with Puzzles and Problems.
