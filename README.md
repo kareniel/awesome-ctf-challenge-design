@@ -16,7 +16,7 @@ A curated list of resources about security CTF and Wargame challenge design.
 
 ## Gamification
 
-- [Gamification for teaching and learning computer security in higher education](https://www.usenix.org/system/files/conference/ase16/ase16-paper-schreuders.pdf) (PDF) - A paper that presents the design and evaluation of a gamified computer security module, with a unique approach to assessed learning activities.
+- [Gamification for teaching and learning computer security in higher education](https://www.usenix.org/system/files/conference/ase16/ase16-paper-schreuders.pdf) (PDF) - A paper that presents the design and evaluation of a gamified computer security module, with a unique approach to assessed learning activities.
 
 
 ## Puzzle Design
