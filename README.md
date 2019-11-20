@@ -39,6 +39,7 @@ evoke curiosity during learning in social contexts.
 - [Empuzzlement](https://www.youtube.com/watch?v=Ul_ZfzfHRek) (Video) - Puzzle game designers talking about puzzles. Featuring: Jonathan Blow, Marc ten Bosch, and Droqen.
 - [Design to Reveal the Nature of the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU) (Video) - A talk from Jonathan Blow & Marc Ten Boch at IndieCade 2011.
 - [Open-Ended Puzzle Design at Zachtronics](https://www.youtube.com/watch?v=U4uH1ynH3Rs) (Video) - Interview with Zach Barth on his studio's puzzle design process, from the initial foundation to the basic mechanics, to the way story is integrated.
+- [Why Video Game Developers Should Understand Functional Fixedness](https://www.youtube.com/watch?v=Uv-KycvzHCA) (Video)  
 
 ## Weird Machines
 
