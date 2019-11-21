@@ -7,6 +7,7 @@ A curated list of resources about security CTF and Wargame challenge design.
 ## General
 
 - [The Many Maxims of Maximally Effective CTFs](http://captf.com/maxims.html)
+- [What makes a programming exercise good?](https://jvns.ca/blog/2019/11/20/what-makes-a-programming-exercise-good/) (Blog post) - Blog post from Julia Evans.
 
 ## Approaches & Specific Designs
 
