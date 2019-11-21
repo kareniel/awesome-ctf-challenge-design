@@ -32,7 +32,6 @@ A curated list of resources about security CTF and Wargame challenge design.
 - [Empuzzlement](https://www.youtube.com/watch?v=Ul_ZfzfHRek) (Video) - Puzzle game designers talking about puzzles. Featuring: Jonathan Blow, Marc ten Bosch, and Droqen.
 - [Design to Reveal the Nature of the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU) (Video) - A talk from Jonathan Blow & Marc Ten Boch at IndieCade 2011.
 - [Open-Ended Puzzle Design at Zachtronics](https://www.youtube.com/watch?v=U4uH1ynH3Rs) (Video) - Interview with Zach Barth on his studio's puzzle design process, from the initial foundation to the basic mechanics, to the way story is integrated. See also [Zach-like](https://zachtronics.itch.io/zach-like) (PDF) which is a book of behind-the-scenes design documents from Zachtronics.
-- [Why Video Game Developers Should Understand Functional Fixedness](https://www.youtube.com/watch?v=Uv-KycvzHCA) (Video)  
 - [Practical Creativity](https://www.youtube.com/watch?v=zyVTxGpEO30) (Video) - Raph Koster explains what science tells us about creativity, and offers practical straightforward steps that any game designer or developer can make use of in order to get more creative.
 
 ## Learning, Curiosity & Gamification 
