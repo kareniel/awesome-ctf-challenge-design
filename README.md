@@ -58,9 +58,10 @@ evoke curiosity during learning in social contexts.
 - [Computer Architecture: A Minimalist Perspective](https://www.amazon.ca/Computer-Architecture-Perspective-International-Engineering/dp/1402074166) (Book) - Examines computer architecture, computability theory, and the history of computers from the perspective of one instruction set computing.
 - [Esoteric.Codes](https://esoteric.codes) (Website) - Languages, platforms, and systems that break from the norms of computing
 
-## Escape Rooms
+## Escape Rooms & Puzzle Hunts
 
 - [A Model to Design Learning Escape Games: SEGAM](https://hal.archives-ouvertes.fr/hal-01744860/document) (PDF) - A methodology for designing "Serious Escape Games" for learning.
+- [The joyful, perplexing world of puzzle hunts](https://www.youtube.com/watch?v=v4ly_-IIFCQ) - A TED talk by Alex Rosenthal about constructing puzzles and the MIT Mystery Hunt.
 
 ---
 
