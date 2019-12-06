@@ -4,6 +4,16 @@
 
 A curated list of resources about security CTF and Wargame challenge design.
 
+Table of content
+
+- [General](#general)
+- [Approaches & Specific Designs](approaches-specific-designs)
+- [Game/Puzzle Design](gamepuzzle-design)
+- [Learning, Curiosity & Gamification](learning-curiosity-gamification)
+- [Running Events](running-events)
+- [Weird Machines & Esolangs](weird-machines-esolangs)
+- [Escape Rooms & Puzzle Hunts](escape-rooms-puzzle-hunts)
+
 ## General
 
 - [The Many Maxims of Maximally Effective CTFs](http://captf.com/maxims.html)
