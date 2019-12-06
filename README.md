@@ -8,6 +8,7 @@ Table of content
 
 - [General](#general)
 - [Approaches & Specific Designs](#approaches--specific-designs)
+- [Engineering](#engineering)
 - [Game/Puzzle Design](#gamepuzzle-design)
 - [Learning, Curiosity & Gamification](#learning-curiosity--gamification)
 - [Running Events](#running-events)
