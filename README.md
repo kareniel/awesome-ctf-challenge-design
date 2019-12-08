@@ -73,6 +73,7 @@ evoke curiosity during learning in social contexts.
 
 - [A Model to Design Learning Escape Games: SEGAM](https://hal.archives-ouvertes.fr/hal-01744860/document) (PDF) - A methodology for designing "Serious Escape Games" for learning.
 - [The joyful, perplexing world of puzzle hunts](https://www.youtube.com/watch?v=v4ly_-IIFCQ) - A TED talk by Alex Rosenthal about constructing puzzles and the MIT Mystery Hunt.
+- [The art of creating an escape room](https://www.youtube.com/watch?v=0SH0agcMRuA) - Thijs Bosschert's talk at SHA2017 on how to create the best experience for the players, pitfalls and how to design puzzles and puzzle flows.
 
 ---
 
