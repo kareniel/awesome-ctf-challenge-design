@@ -20,6 +20,7 @@ Table of content
 - [The Many Maxims of Maximally Effective CTFs](http://captf.com/maxims.html)
 - [The Anatomy of a CTF challenge](https://anonymousmailroot.medium.com/the-anatomy-of-a-ctf-challenge-855f17e0e178)
 - [What makes a programming exercise good?](https://jvns.ca/blog/2019/11/20/what-makes-a-programming-exercise-good/) (Blog post) - Blog post from Julia Evans.
+- [CTF Design Guidelines](https://bit.ly/ctf-design) - Design guidelines for CTF authors and organizers
 
 ## Approaches & Specific Designs
 
