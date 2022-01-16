@@ -14,6 +14,7 @@ Table of content
 - [Running Events](#running-events)
 - [Weird Machines & Esolangs](#weird-machines--esolangs)
 - [Escape Rooms & Puzzle Hunts](#escape-rooms--puzzle-hunts)
+- [Mario Maker Troll Levels](#mario-maker-troll-levels)
 
 ## General
 
@@ -77,6 +78,13 @@ evoke curiosity during learning in social contexts.
 - [A Model to Design Learning Escape Games: SEGAM](https://hal.archives-ouvertes.fr/hal-01744860/document) (PDF) - A methodology for designing "Serious Escape Games" for learning.
 - [The joyful, perplexing world of puzzle hunts](https://www.youtube.com/watch?v=v4ly_-IIFCQ) - A TED talk by Alex Rosenthal about constructing puzzles and the MIT Mystery Hunt.
 - [The art of creating an escape room](https://www.youtube.com/watch?v=0SH0agcMRuA) - Thijs Bosschert's talk at SHA2017 on how to create the best experience for the players, pitfalls and how to design puzzles and puzzle flows.
+
+## Mario Maker Troll Levels
+
+- [Trolling for Dummies](https://docs.google.com/document/d/13ZoqeblLs45HuEfTtsOrq6X0LAuEnA8nB721_doxE38) - A perpetual work in progress and that will continue to be updated as the community learns more about making good troll levels, and as new techniques are discovered.
+- [Mario Maker 2 Multiplayer Troll Design](https://docs.google.com/document/d/1I4jMYEdHiVpmA0W4svEGnBsZ85VwOOpiIFaneuMkvRQ) - How to design a multiplayer troll that works and thrills the players and audiences.
+- [Multiplayer Contraptions in Super Mario Maker 2](https://docs.google.com/document/d/1Onp9j3inEpg_xFFPRIhLcm1tqbaOByEs9w4KTSE7kF8) - This guide is about various contraptions related to the multiplayer modes. Some of them are to separate the mode. And others to determine the amount of players.
+- [MulTROLLplayer Research Hub Tech Sheet](https://docs.google.com/document/d/1_UPHmcez5R4Qv0ZAMVRbWwYy1JjCRyeeJ0XtpROPI6Y) - A compilation of multiplayer tech, from totally obvious to glitchy jank.
 
 ---
 
