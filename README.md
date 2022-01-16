@@ -18,8 +18,7 @@ Table of content
 
 ## General
 
-- [The Many Maxims of Maximally Effective CTFs](http://captf.com/maxims.html)
-- [The Anatomy of a CTF challenge](https://anonymousmailroot.medium.com/the-anatomy-of-a-ctf-challenge-855f17e0e178)
+- [The Many Maxims of Maximally Effective CTFs](https://web.archive.org/web/20201212081922/https://captf.com/maxims.html) - Some important maxims to live out when making a CTF.
 - [What makes a programming exercise good?](https://jvns.ca/blog/2019/11/20/what-makes-a-programming-exercise-good/) (Blog post) - Blog post from Julia Evans.
 - [CTF Design Guidelines](https://bit.ly/ctf-design) - Design guidelines for CTF authors and organizers
 
@@ -51,8 +50,7 @@ Table of content
 
 ## Learning, Curiosity & Gamification 
 
-- [Modeling and Designing for Key Elements of
-Curiosity: Risking Failure, Valuing Questions](http://www.digra.org/wp-content/uploads/digital-library/63_DIGRA2017_FP_To_Modelling_Curosity.pdf) (PDF) - This paper presents a design model of curiosity that articulates the relationship between uncertainty and curiosity and defines the role of failure and question-asking within that relationship.
+- [Modeling and Designing for Key Elements of Curiosity: Risking Failure, Valuing Questions](http://www.digra.org/wp-content/uploads/digital-library/63_DIGRA2017_FP_To_Modelling_Curosity.pdf) (PDF) - This paper presents a design model of curiosity that articulates the relationship between uncertainty and curiosity and defines the role of failure and question-asking within that relationship.
 - [A New Theoretical Framework for Curiosity for Learning in Social Contexts](http://www.justinecassell.com/publications/A%20New%20Theoretical%20Framework%20for%20Curiosity%20for%20Learning%20in%20Social%20Contexts.pdf) (PDF) -  This framework is a step towards designing learning technologies that can recognize and
 evoke curiosity during learning in social contexts.
 - [Curious Minds Wonder Alike](https://zhenbai.io/wp-content/uploads/2018/08/Sinha_Bai_Cassell_EC-TEL_Curious_Minds_Wonder_Alike.pdf) (PDF) - A paper that identifies fine-grained social scaffolding of curiosity in child-child interaction, and proposes how they can be used to elicit and maintain curiosity in technology-enhanced learning environments.
