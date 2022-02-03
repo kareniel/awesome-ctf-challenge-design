@@ -15,6 +15,7 @@ Table of content
 - [Weird Machines & Esolangs](#weird-machines--esolangs)
 - [Escape Rooms & Puzzle Hunts](#escape-rooms--puzzle-hunts)
 - [Mario Maker Troll Levels](#mario-maker-troll-levels)
+- [Finding Challenge Ideas](#finding-challenge-ideas)
 
 ## General
 
@@ -83,6 +84,11 @@ evoke curiosity during learning in social contexts.
 - [Mario Maker 2 Multiplayer Troll Design](https://docs.google.com/document/d/1I4jMYEdHiVpmA0W4svEGnBsZ85VwOOpiIFaneuMkvRQ) - How to design a multiplayer troll that works and thrills the players and audiences.
 - [Multiplayer Contraptions in Super Mario Maker 2](https://docs.google.com/document/d/1Onp9j3inEpg_xFFPRIhLcm1tqbaOByEs9w4KTSE7kF8) - This guide is about various contraptions related to the multiplayer modes. Some of them are to separate the mode. And others to determine the amount of players.
 - [MulTROLLplayer Research Hub Tech Sheet](https://docs.google.com/document/d/1_UPHmcez5R4Qv0ZAMVRbWwYy1JjCRyeeJ0XtpROPI6Y) - A compilation of multiplayer tech, from totally obvious to glitchy jank.
+
+## Finding Challenge Ideas
+
+- [Search RFCs by "best current practice"](https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=DESC&page=All&pubstatus%5B%5D=Best%20Current%20Practice) - IETF RFCs have a status called "Best Current Practice". This page lets you filter them using that status.
+- [CISA's catalog of "bad practice"](https://github.com/cisagov/bad-practices) - A catalog of bad practices that are exceptionally risky, especially in organizations supporting critical infrastructure or NCFs
 
 ---
 
