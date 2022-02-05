@@ -62,6 +62,7 @@ evoke curiosity during learning in social contexts.
 - [Learning Obstacles in the Capture The Flag Model](https://www.usenix.org/system/files/conference/3gse14/3gse14-chung.pdf) (PDF) - Insights and lessons learned from organizing CSAW CTF
 - [Organizing Large Scale Hacking Competitions](https://sites.cs.ucsb.edu/~vigna/publications/2010_childers_boe_cavallaro_cavedon_cova_egele_vigna_dimva10.pdf) (PDF) -  Two new competition designs, the challenges overcome, and the lessons learned, with the goal of providing useful guidelines to other educators who want to pursue the organization of similar events
 - [Ten Years of iCTF - The Good, The Bad, and The Ugly](https://www.usenix.org/conference/3gse14/summit-program/presentation/vigna) (Video) - There is also [a paper about this](https://www.researchgate.net/publication/278724640_Ten_Years_of_iCTF_The_Good_The_Bad_and_The_Ugly).
+- [Suggestions for running a CTF](https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown) - Describes some of the design decisions and technical details involved in running a CTF competition.
 
 ## Weird Machines & Esolangs
 
