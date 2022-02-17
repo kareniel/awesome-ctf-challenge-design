@@ -31,6 +31,7 @@ Table of content
 - [A “Divergent”-themed CTF and Urban Race for Introducing Security and Cryptography](https://www.usenix.org/conference/ase16/workshop-program/presentation/feng) (PDF) - A set of CTF exercises and a physical activity based on an urban race, both of which are tied into a fictional story that students act out. 
 - [Teaching Network Security Through Live Exercises](https://ictf.cs.ucsb.edu/pdfs/2003_WISE_iCTF.pdf) (PDF) - This paper describes a series of live exercises that have been used in a graduate-level Computer Science course on network security.
 - [ARE CTF CREATORS EVIL?! - A Conversation around realworld CTF's with Adam Langley](https://www.youtube.com/watch?v=8ontlr9qY4Y) (Video) - Conversartion session between STÖK and Adam Langley
+- [OOO DEF CON CTF finals infrastructure code](https://github.com/o-o-overflow/dcf-game-infrastructure-public) - All the game components necessary to run an Attack-Defense CTF that OOO used from 2018-2021
 
 ## Engineering
 
