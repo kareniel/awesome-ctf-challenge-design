@@ -1,10 +1,8 @@
-# Awesome CTF Challenge Design
+# Awesome CTF Challenge Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Resources to help you design security CTF and wargame challenges.
 
-A curated list of resources about security CTF and Wargame challenge design.
-
-Table of content
+## Contents
 
 - [General](#general)
 - [Approaches & Specific Designs](#approaches--specific-designs)
@@ -92,9 +90,10 @@ evoke curiosity during learning in social contexts.
 - [Search RFCs by "best current practice"](https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=DESC&page=All&pubstatus%5B%5D=Best%20Current%20Practice) - IETF RFCs have a status called "Best Current Practice". This page lets you filter them using that status.
 - [CISA's catalog of "bad practice"](https://github.com/cisagov/bad-practices) - A catalog of bad practices that are exceptionally risky, especially in organizations supporting critical infrastructure or NCFs
 
----
 
-#### See Also
+## Footnotes
+
+### See Also
 
 Other Awesome Lists:
 
